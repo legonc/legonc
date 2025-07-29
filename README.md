@@ -34,10 +34,10 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
 ## 📂 Проекты
-- [Учебные проекты](https://github.com/legonc/Study-Projects): Курсовые работы Яндекс Практикума по Data Science.
-- [Личные проекты](https://github.com/legonc/Pet-Projects): Эксперименты с данными и моделями ML.
-- [Kaggle](https://github.com/legonc/Kaggle-Projects): Анализ датасетов и участие в соревнованиях.
-- [Рабочие проекты](https://github.com/legonc/Work-Projects): Публичные профессиональные проекты.
+- [Учебные проекты](https://github.com/legonc?tab=repositories): Курсовые работы по Data Science.
+- [Личные проекты](https://github.com/legonc?tab=repositories): Эксперименты с данными и моделями ML.
+- [Kaggle](https://github.com/legonc?tab=repositories): Анализ датасетов и участие в соревнованиях.
+- [Рабочие проекты](https://github.com/legonc?tab=repositories): Публичные профессиональные проекты.
 
 ## 📊 Kaggle
 - Профиль: [kaggle.com/fivetimes](https://kaggle.com/legonc)
