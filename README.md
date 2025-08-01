@@ -1,18 +1,22 @@
-# Привет, я Дмитрий.
+# Дмитрий | Data Scientist
 
-Специалист по Data Science, создаю решения на основе данных с использованием Python, SQL, ML, DL.
+Привет, я Дмитрий — начинающий специалист по Data Science. Увлечен анализом данных, машинным обучением и созданием решений, которые помогают бизнесу и людям. Работаю с Python, SQL и современными инструментами ML/DL, стремлюсь к чистому коду и эффективным результатам.
 
-## 🔍 Обо мне
-Начинающий Data Scientist, изучаю большие данные, машинное обучение и автоматизацию процессов. 
+## Обо мне
 
-## 🛠 Технологии
-| Категория | Технологии |
-|-----------|------------|
-| Анализ данных | Pandas, NumPy, Jupyter Notebook, SciPy |
-| Моделирование | Scikit-learn, CatBoost, LightGBM, XGBoost, PyTorch, Hugging Face, Optuna, SHAP |
-| Автоматизация | AirFlow, MLflow, Spark |
-| Визуализация | Matplotlib, Seaborn |
-| Инструменты | Git, SQL, Командная строка |
+Изучаю большие данные, автоматизацию процессов и модели машинного обучения. Моя цель — находить простые и надежные решения для сложных задач, основываясь на данных. Люблю учиться новому и применять знания в реальных проектах.
+
+## Технологии
+
+| Категория                     | Инструменты и библиотеки                              |
+|-------------------------------|------------------------------------------------------|
+| Анализ данных                 | Pandas, NumPy, Jupyter Notebook, SciPy              |
+| Инструменты анализа           | Когортный анализ, A/B тестирование, Анализ временных рядов, Статистический анализ, Data Profiling |
+| Классическое ML               | Линейная регрессия, Логистическая регрессия, Деревья решений, Случайный лес, Градиентный бустинг, XGBoost, LightGBM, CatBoost, KNN, SVM, K-Means, Ансамблевые методы |
+| Глубокое обучение (DL)        | PyTorch, Hugging Face                              |
+| Автоматизация                 | AirFlow, MLflow, Spark                              |
+| Визуализация                  | Matplotlib, Seaborn                                 |
+| Дополнительно                 | Git, SQL, Optuna, SHAP                              |
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
@@ -33,17 +37,19 @@
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-F9AB00?logo=huggingface&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
-## 📂 Проекты
-- [Учебные проекты](https://github.com/legonc?tab=repositories): Курсовые работы по Data Science.
-- [Личные проекты](https://github.com/legonc?tab=repositories): Эксперименты с данными и моделями ML.
-- [Kaggle](https://github.com/legonc?tab=repositories): Анализ датасетов и участие в соревнованиях.
-- [Рабочие проекты](https://github.com/legonc?tab=repositories): Публичные профессиональные проекты.
+## Проекты
 
-## 📊 Kaggle
-- Профиль: [kaggle.com/fivetimes](https://kaggle.com/legonc)
+- **Учебные проекты**: Курсовые работы по анализу данных и машинному обучению ([GitHub](https://github.com/legonc?tab=repositories)).
+- **Личные проекты**: Эксперименты с ML-моделями и обработкой данных ([GitHub](https://github.com/legonc?tab=repositories)).
+- **Kaggle**: Участие в соревнованиях и анализ датасетов ([kaggle.com/legonc](https://kaggle.com/legonc)).
+- **Рабочие проекты**: Публичные профессиональные задачи ([GitHub](https://github.com/legonc?tab=repositories)).
 
-## 📫 Связаться
-- Telegram: [@fivetimes](https://t.me/fivetimes)
+## Контакты
 
-## 📈 Статистика
-![Статистика](https://github-readme-stats.vercel.app/api?username=legonc&show_icons=true&theme=minimal)
+- Telegram: [@legonc](https://t.me/fivetimes)
+- LeetCode: [leetcode.com/u/legonc](https://leetcode.com/u/legonc)
+- Хабр Карьера: [career.habr.com/legonc](https://career.habr.com/legonc)
+
+## Статистика
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=legonc&show_icons=true&theme=minimal)
