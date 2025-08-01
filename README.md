@@ -2,11 +2,11 @@
 
 Привет, я Дмитрий — начинающий специалист по Data Science. Увлечен анализом данных, машинным обучением и созданием решений, которые помогают бизнесу и людям. Работаю с Python, SQL и современными инструментами ML/DL, стремлюсь к чистому коду и эффективным результатам.
 
-## Обо мне
+## About me
 
-Изучаю большие данные, автоматизацию процессов и модели машинного обучения. Моя цель — находить простые и надежные решения для сложных задач, основываясь на данных. Люблю учиться новому и применять знания в реальных проектах.
+Изучаю большие данные, автоматизацию процессов и модели машинного обучения. Моя цель — находить простые и надежные решения для сложных задач, основываясь на данных.
 
-## Технологии
+## Tech Stack
 
 | Категория                     | Инструменты и библиотеки                              |
 |-------------------------------|------------------------------------------------------|
@@ -37,19 +37,19 @@
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-F9AB00?logo=huggingface&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
-## Проекты
+## Projects
 
 - **Учебные проекты**: Курсовые работы по анализу данных и машинному обучению ([GitHub](https://github.com/legonc?tab=repositories)).
 - **Личные проекты**: Эксперименты с ML-моделями и обработкой данных ([GitHub](https://github.com/legonc?tab=repositories)).
 - **Kaggle**: Участие в соревнованиях и анализ датасетов ([kaggle.com/legonc](https://kaggle.com/legonc)).
 - **Рабочие проекты**: Публичные профессиональные задачи ([GitHub](https://github.com/legonc?tab=repositories)).
 
-## Контакты
+## Contacts
 
-- Telegram: [@legonc](https://t.me/fivetimes)
+- Telegram: [@fivetimes](https://t.me/fivetimes)
 - LeetCode: [leetcode.com/u/legonc](https://leetcode.com/u/legonc)
 - Хабр Карьера: [career.habr.com/legonc](https://career.habr.com/legonc)
 
-## Статистика
+## Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=legonc&show_icons=true&theme=minimal)
