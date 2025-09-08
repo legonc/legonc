@@ -1,33 +1,33 @@
-# Dmitriy | Data Scientist  
+# Дмитрий | Data Scientist  
 
-Hi 👋  
-I'm Dmitriy, a Data Scientist. I work with data analysis, machine learning, and process automation.  
-I enjoy turning data into actionable solutions and building models that actually make an impact.  
-
----
-
-## 🚀 About Me  
-
-- Exploring **machine learning**, **deep learning**, and **data processing**  
-- Interested in **analytics**, **process automation**, and **big data**  
-- Goal: find simple and reliable solutions for complex problems  
+Привет 👋  
+Я — Дмитрий, Data Scientist. Работаю с анализом данных, машинным обучением и автоматизацией процессов.  
+Люблю превращать данные в понятные решения и строить модели, которые реально приносят пользу.  
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🚀 Обо мне  
+
+- Изучаю **машинное обучение**, **глубокое обучение** и **обработку данных**  
+- Интересуюсь **аналитикой**, **автоматизацией процессов** и **большими данными**  
+- Цель: находить простые и надёжные решения для сложных задач  
+
+---
+
+## 🛠️ Технологии и инструменты
 
 <p align="center">
-  <!-- Analytics & Statistics -->
+  <!-- Аналитика и статистика -->
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&height=12">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&height=12">
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white&height=12">
-  <img src="https://img.shields.io/badge/Cohort_Analysis-6A5ACD?style=for-the-badge&height=12">
-  <img src="https://img.shields.io/badge/A%2FB_Testing-FF4500?style=for-the-badge&height=12">
-  <img src="https://img.shields.io/badge/Time_Series-20B2AA?style=for-the-badge&height=12">
+  <img src="https://img.shields.io/badge/Когортный_анализ-6A5ACD?style=for-the-badge&height=12">
+  <img src="https://img.shields.io/badge/A%2FB_тестирование-FF4500?style=for-the-badge&height=12">
+  <img src="https://img.shields.io/badge/Временные_ряды-20B2AA?style=for-the-badge&height=12">
 </p>
 
 <p align="center">
-  <!-- Classical ML -->
+  <!-- Классическое ML -->
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&height=12">
   <img src="https://img.shields.io/badge/XGBoost-EC4D37?style=for-the-badge&height=12">
   <img src="https://img.shields.io/badge/LightGBM-0B6E4F?style=for-the-badge&height=12">
@@ -35,13 +35,13 @@ I enjoy turning data into actionable solutions and building models that actually
 </p>
 
 <p align="center">
-  <!-- Deep Learning & NLP -->
+  <!-- Глубокое обучение и NLP -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&height=12">
   <img src="https://img.shields.io/badge/HuggingFace-FECC00?style=for-the-badge&logo=huggingface&logoColor=black&height=12">
   <img src="https://img.shields.io/badge/TabNet-FF7F50?style=for-the-badge&height=12">
   <img src="https://img.shields.io/badge/TabM-1E90FF?style=for-the-badge&height=12">
-  <img src="https://img.shields.io/badge/Bag_of_Words-4682B4?style=for-the-badge&height=12">
-  <img src="https://img.shields.io/badge/N-grams-6495ED?style=for-the-badge&height=12">
+  <img src="https://img.shields.io/badge/Мешок_слов-4682B4?style=for-the-badge&height=12">
+  <img src="https://img.shields.io/badge/N-граммы-6495ED?style=for-the-badge&height=12">
   <img src="https://img.shields.io/badge/TFIDF-00CED1?style=for-the-badge&height=12">
   <img src="https://img.shields.io/badge/BERT-FF69B4?style=for-the-badge&height=12">
   <img src="https://img.shields.io/badge/Word2Vec-2E8B57?style=for-the-badge&height=12">
@@ -49,7 +49,7 @@ I enjoy turning data into actionable solutions and building models that actually
 </p>
 
 <p align="center">
-  <!-- Optimization & Interpretation -->
+  <!-- Оптимизация и интерпретация -->
   <img src="https://img.shields.io/badge/Optuna-00BFFF?style=for-the-badge&height=12">
   <img src="https://img.shields.io/badge/SHAP-DC143C?style=for-the-badge&height=12">
   <img src="https://img.shields.io/badge/Grid_Search-696969?style=for-the-badge&height=12">
@@ -57,16 +57,16 @@ I enjoy turning data into actionable solutions and building models that actually
 </p>
 
 <p align="center">
-  <!-- Visualization -->
+  <!-- Визуализация -->
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&height=12">
   <img src="https://img.shields.io/badge/Seaborn-4C9A2A?style=for-the-badge&height=12">
 </p>
 
 <p align="center">
-  <!-- Mathematics & Tools -->
-  <img src="https://img.shields.io/badge/Linear_Algebra-191970?style=for-the-badge&height=12">
-  <img src="https://img.shields.io/badge/Statistics-8A2BE2?style=for-the-badge&height=12">
-  <img src="https://img.shields.io/badge/Probability-006400?style=for-the-badge&height=12">
+  <!-- Математика и инструменты -->
+  <img src="https://img.shields.io/badge/Линейная_алгебра-191970?style=for-the-badge&height=12">
+  <img src="https://img.shields.io/badge/Статистика-8A2BE2?style=for-the-badge&height=12">
+  <img src="https://img.shields.io/badge/Теория_вероятностей-006400?style=for-the-badge&height=12">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&height=12">
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white&height=12">
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white&height=12">
@@ -76,18 +76,18 @@ I enjoy turning data into actionable solutions and building models that actually
 
 ---
 
-## 📂 Repositories  
+## 📂 Репозитории  
 
-- 🔹 **Study-*** — educational projects  
-- 🔹 **Kaggle-*** — competitions and dataset analysis  
-- 🔹 **Pet-*** — personal projects and experiments  
-- 🔹 **Case-*** — professional and practical projects  
+- 🔹 **Study-*** — учебные проекты  
+- 🔹 **Kaggle-*** — соревнования и анализ датасетов  
+- 🔹 **Pet-*** — личные проекты и эксперименты  
+- 🔹 **Case-*** — рабочие и практические проекты  
 
-👉 [View Repositories](https://github.com/legonc?tab=repositories)  
+👉 [Смотреть репозитории](https://github.com/legonc?tab=repositories)  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Статистика  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=legonc&show_icons=true&theme=transparent&hide_border=true" height="160px" />
@@ -96,10 +96,10 @@ I enjoy turning data into actionable solutions and building models that actually
 
 ---
 
-## 📬 Contacts  
+## 📬 Контакты  
 
 <p align="center">
   <a href="https://t.me/fivetimes"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&height=20"/></a>  
   <a href="https://leetcode.com/u/legonc"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&height=20"/></a>  
-  <a href="https://career.habr.com/legonc"><img src="https://img.shields.io/badge/Habr_Career-65A3BE?style=for-the-badge&logo=habr&logoColor=white&height=20"/></a>  
+  <a href="https://career.habr.com/legonc"><img src="https://img.shields.io/badge/Habr_Карьера-65A3BE?style=for-the-badge&logo=habr&logoColor=white&height=20"/></a>  
 </p>
